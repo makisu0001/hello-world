@@ -15,6 +15,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 
 #: src/features/claim/ClaimFLEXAS.js:270
+#, fuzzy
 msgid "(Minimun of 3 pictures)"
 msgstr "(Minimal 3 foto)"
 
@@ -84,8 +85,7 @@ msgstr "<0>Pemberitahuan:</0> Semua Biaya Risiko Sendiri harus dibayarkan ke igl
 msgid "<0>Notice:</0> This is the maximum amount you can claim for this policy."
 msgstr "<0>Pemberitahuan:</0> Ini adalah jumlah maksimum yang dapat Anda klaim untuk polis ini."
 
-#: src/features/claim/ClaimGadget.js:519
-#: src/features/policiesList/index.js:30
+#: src/features/claim/ClaimGadget.js:519 src/features/policiesList/index.js:30
 msgid "Accident Physical Damage"
 msgstr "Kerusakan Fisik Tidak Disengaja"
 
@@ -111,6 +111,7 @@ msgid "Account Number is invilad"
 msgstr "Nomor Akun tidak valid"
 
 #: src/components/FileUpload.js:105
+#, fuzzy
 msgid "Add more..."
 msgstr "Tambah lagi"
 
@@ -197,8 +198,7 @@ msgstr "Pusat Layanan Resmi"
 
 #: src/components/ImeiSerialNumberHelp/index.js:119
 #: src/components/ImeiSerialNumberHelp/index.js:384
-#: src/features/claim/ClaimGadget.js:405
-#: src/features/claim/ClaimGadget.js:457
+#: src/features/claim/ClaimGadget.js:405 src/features/claim/ClaimGadget.js:457
 #: src/features/claim/ServiceCenterClaim/MoreExample.js:121
 #: src/features/claim/ServiceCenterClaim/MoreExample.js:361
 #: src/features/claim/components/buttons.js:18
@@ -242,8 +242,7 @@ msgstr "Nama Bank Tidak Valid"
 msgid "Bank Transfer"
 msgstr "Transfer Bank"
 
-#: src/features/claim/ClaimGadget.js:510
-#: src/features/policiesList/index.js:27
+#: src/features/claim/ClaimGadget.js:510 src/features/policiesList/index.js:27
 msgid "Battery Failure"
 msgstr "Kerusakan Baterai"
 
@@ -314,8 +313,7 @@ msgstr "Formulir Klaim Online"
 msgid "Claim Reason should be chosen at least one"
 msgstr "Silakan pilih alasan klaim. Alasan klaim dapat dipilh lebih dari satu."
 
-#: src/app/HowToClaim/FlexasPA.js:173
-#: src/app/HowToClaim/Gadget.js:260
+#: src/app/HowToClaim/FlexasPA.js:173 src/app/HowToClaim/Gadget.js:260
 #: src/app/HowToClaim/Goods.js:103
 msgid "Claim Request Submission"
 msgstr "Pengajuan Permohonan Klaim"
@@ -374,8 +372,7 @@ msgstr "Klik untuk melakukan aktivasi setiap perangkat elektronik Anda."
 msgid "Click to update each policy data."
 msgstr "Klik untuk melakukan Update Info masing-masing Polis"
 
-#: src/features/claim/ClaimGoods.js:316
-#: src/features/claim/ConfirmExcess.js:77
+#: src/features/claim/ClaimGoods.js:316 src/features/claim/ConfirmExcess.js:77
 #: src/features/registration/FormFLEXAS.js:623
 #: src/features/registration/FormGadget.js:486
 #: src/features/registration/FormPA.js:437
@@ -415,8 +412,7 @@ msgstr "DVD Player/Bluray Player"
 msgid "Damage not due to shipping"
 msgstr "Kerusakan bukan akibat proses pengiriman"
 
-#: src/features/claim/ClaimFLEXAS.js:355
-#: src/features/claim/ClaimPA.js:217
+#: src/features/claim/ClaimFLEXAS.js:355 src/features/claim/ClaimPA.js:217
 msgid "Data Kerugian/Kejadian"
 msgstr "Informasi Kerugian/Kejadian"
 
@@ -510,8 +506,7 @@ msgstr "Setiap KTP hanya dapat digunakan untuk maksimum 3 polis. Harap berikan n
 msgid "Electric Fan"
 msgstr "Kipas Angin"
 
-#: src/features/claim/ClaimGadget.js:523
-#: src/features/policiesList/index.js:31
+#: src/features/claim/ClaimGadget.js:523 src/features/policiesList/index.js:31
 msgid "Electronic Failure"
 msgstr "Kerusakan Elektronik"
 
@@ -572,8 +567,7 @@ msgstr "Biaya Risiko Sendiri mengacu pada jumlah dana awal yang harus Anda bayar
 msgid "FLEXAS"
 msgstr "Perlindungan Kebakaran"
 
-#: src/app/HowToClaim/index.js:117
-#: src/app/HowToClaim/index.js:144
+#: src/app/HowToClaim/index.js:117 src/app/HowToClaim/index.js:144
 msgid "FLEXAS & Personal Accident"
 msgstr "Perlindungan Kebakaran & Perlindungan Kecelakaan Diri"
 
@@ -585,35 +579,29 @@ msgstr "Keluarga"
 msgid "Female"
 msgstr "Perempuan"
 
-#: src/features/claim/ClaimFLEXAS.js:327
-#: src/features/claim/ClaimGoods.js:333
+#: src/features/claim/ClaimFLEXAS.js:327 src/features/claim/ClaimGoods.js:333
 #: src/features/claim/ClaimPA.js:179
 msgid "File format could be either PNG, JPEG or PDF."
 msgstr "Format file dapat berupa PNG, JPEG atau PDF."
 
-#: src/features/claim/ClaimFLEXAS.js:115
-#: src/features/claim/ClaimGoods.js:125
-#: src/features/claim/ClaimPA.js:497
-#: src/features/claim/ClaimPA.js:531
+#: src/features/claim/ClaimFLEXAS.js:115 src/features/claim/ClaimGoods.js:125
+#: src/features/claim/ClaimPA.js:497 src/features/claim/ClaimPA.js:531
 #: src/features/claim/ClaimSuccess/index.js:501
 #: src/features/claim/ReimbursementDetails/ReimburseGoods.js:84
 #: src/features/claim/ReimbursementDetails/ReimburseReturn.js:149
 msgid "File upload failed. Please try again later."
 msgstr "File gagal diunggah. Silakan dicoba lagi."
 
-#: src/app/HowToClaim/FlexasPA.js:153
-#: src/app/HowToClaim/Gadget.js:238
+#: src/app/HowToClaim/FlexasPA.js:153 src/app/HowToClaim/Gadget.js:238
 #: src/app/HowToClaim/Goods.js:132
 msgid "Fill out all required details*"
 msgstr "Isi semua rincian yang dibutuhkan *"
 
-#: src/features/claim/ClaimFLEXAS.js:224
-#: src/features/policiesList/index.js:37
+#: src/features/claim/ClaimFLEXAS.js:224 src/features/policiesList/index.js:37
 msgid "Fire, Explosion, Airplane Crash and Smoke"
 msgstr "Kebakaran, Ledakan, Kecelakaan Pesawat, dan Asap"
 
-#: src/app/HowToClaim/FlexasPA.js:117
-#: src/app/HowToClaim/Gadget.js:202
+#: src/app/HowToClaim/FlexasPA.js:117 src/app/HowToClaim/Gadget.js:202
 #: src/app/HowToClaim/Goods.js:114
 msgid "For 1st time igloo users:"
 msgstr "Untuk pengguna baru igloo:"
@@ -627,13 +615,11 @@ msgstr "Untuk Perlindungan Kebakaran, 1 tempat tinggal hanya dapat dilindungi ol
 msgid "For further assistance, please contact our customer service for help."
 msgstr "Untuk bantuan lebih lanjut, silakan hubungi customer service kami."
 
-#: src/app/HowToClaim/index.js:118
-#: src/app/HowToClaim/index.js:145
+#: src/app/HowToClaim/index.js:118 src/app/HowToClaim/index.js:145
 msgid "GOODS"
 msgstr "Perlindungan Barang"
 
-#: src/app/HowToClaim/index.js:116
-#: src/app/HowToClaim/index.js:143
+#: src/app/HowToClaim/index.js:116 src/app/HowToClaim/index.js:143
 msgid "Gadgets"
 msgstr "Perangkat Elektronik"
 
@@ -661,8 +647,7 @@ msgstr "Pewaris Diperlukan"
 msgid "Home Theater"
 msgstr "Home Theater"
 
-#: src/app/HowToClaim/index.js:105
-#: src/app/UserInfo/index.js:105
+#: src/app/HowToClaim/index.js:105 src/app/UserInfo/index.js:105
 msgid "How To Claim"
 msgstr "Cara Melakukan Klaim"
 
@@ -777,8 +762,7 @@ msgstr "Resi Pengiriman dari Kurir dibutuhkan"
 msgid "Iron/Steamer"
 msgstr "Setrika/Steamer"
 
-#: src/app/HowToClaim/FlexasPA.js:192
-#: src/app/HowToClaim/Goods.js:150
+#: src/app/HowToClaim/FlexasPA.js:192 src/app/HowToClaim/Goods.js:150
 msgid "Just a few questions and documents!"
 msgstr "Lengkapi beberapa pertanyaan dan dokumen"
 
@@ -802,8 +786,7 @@ msgstr "Nomor KTP/NIK Tertanggung"
 msgid "KTP: <0>{idNumber}</0>"
 msgstr "KTP: <0>{idNumber}</0>"
 
-#: src/features/claim/ClaimGadget.js:514
-#: src/features/policiesList/index.js:28
+#: src/features/claim/ClaimGadget.js:514 src/features/policiesList/index.js:28
 msgid "Keyboard Failure"
 msgstr "Kerusakan Keyboard"
 
@@ -820,8 +803,7 @@ msgstr "Pengguna laptop"
 msgid "Learn more"
 msgstr "Pelajari lebih lanjut"
 
-#: src/features/claim/ClaimFLEXAS.js:227
-#: src/features/policiesList/index.js:36
+#: src/features/claim/ClaimFLEXAS.js:227 src/features/policiesList/index.js:36
 msgid "Lightning Strike"
 msgstr "Sambaran Petir"
 
@@ -845,8 +827,7 @@ msgstr "Buat janji temu via telepon."
 msgid "Male"
 msgstr "Laki-laki"
 
-#: src/features/claim/ClaimGadget.js:527
-#: src/features/policiesList/index.js:32
+#: src/features/claim/ClaimGadget.js:527 src/features/policiesList/index.js:32
 msgid "Mechanical Failure"
 msgstr "Kerusakan Mekanis"
 
@@ -915,18 +896,15 @@ msgstr "Nama Tertanggung pada KTP/KK "
 msgid "Name of the Heir"
 msgstr "Nama Ahli Waris"
 
-#: src/app/OnboardingModal/index.js:114
-#: src/features/claim/ClaimGadget.js:419
+#: src/app/OnboardingModal/index.js:114 src/features/claim/ClaimGadget.js:419
 #: src/features/claim/ReimbursementDetails/ReimburseReturn.js:399
 #: src/features/claim/ReimbursementDetails/ReimburseReturn.js:659
 #: src/features/claim/components/buttons.js:24
 msgid "Next"
 msgstr "Berikutnya"
 
-#: src/features/claim/ClaimFLEXAS.js:416
-#: src/features/claim/ClaimFLEXAS.js:516
-#: src/features/claim/ClaimGadget.js:659
-#: src/features/claim/ClaimPA.js:292
+#: src/features/claim/ClaimFLEXAS.js:416 src/features/claim/ClaimFLEXAS.js:516
+#: src/features/claim/ClaimGadget.js:659 src/features/claim/ClaimPA.js:292
 #: src/features/registration/FormFLEXAS.js:332
 #: src/features/registration/FormPA.js:461
 msgid "No"
@@ -997,8 +975,7 @@ msgstr "Opsi 3C: Klaim melalui jasa perbaikan resmi merek perangkat elektronik a
 msgid "Or"
 msgstr "Atau"
 
-#: src/features/claim/ClaimGadget.js:530
-#: src/features/claim/ClaimGadget.js:611
+#: src/features/claim/ClaimGadget.js:530 src/features/claim/ClaimGadget.js:611
 #: src/features/claim/ReimbursementDetails/ReimburseReturn.js:428
 #: src/features/policiesList/index.js:38
 msgid "Others"
@@ -1079,8 +1056,7 @@ msgstr "Foto Barang yang mengalami Kerusakaan Total <0>(Minimum 3 foto dari sudu
 msgid "Pick-up service"
 msgstr "Layanan Penjemputan"
 
-#: src/features/claim/ClaimFLEXAS.js:348
-#: src/features/claim/ClaimPA.js:210
+#: src/features/claim/ClaimFLEXAS.js:348 src/features/claim/ClaimPA.js:210
 msgid "Please answer all the following questions. This will take you less than 5 minutes to complete. Thanks!"
 msgstr "Harap menjawab pertanyaan-pertanyaan berikut. Proses ini akan memakan waktu kurang dari 5 menit. Terima kasih!"
 
@@ -1430,13 +1406,11 @@ msgstr "Tersimpan!"
 msgid "Scanner"
 msgstr "Scanner"
 
-#: src/features/claim/ClaimGadget.js:502
-#: src/features/policiesList/index.js:25
+#: src/features/claim/ClaimGadget.js:502 src/features/policiesList/index.js:25
 msgid "Screen Crack"
 msgstr "Layar Retak"
 
-#: src/features/claim/ClaimGadget.js:506
-#: src/features/policiesList/index.js:26
+#: src/features/claim/ClaimGadget.js:506 src/features/policiesList/index.js:26
 msgid "Screen Failure"
 msgstr "Kerusakan Layar"
 
@@ -1511,20 +1485,13 @@ msgstr "Smartwatch"
 msgid "Something went wrong"
 msgstr "Ada yang salah"
 
-#: src/features/claim/BankAccount.js:93
-#: src/features/claim/ClaimFLEXAS.js:136
-#: src/features/claim/ClaimFLEXAS.js:145
-#: src/features/claim/ClaimFLEXAS.js:163
-#: src/features/claim/ClaimFLEXAS.js:171
-#: src/features/claim/ClaimGadget.js:217
-#: src/features/claim/ClaimGadget.js:316
-#: src/features/claim/ClaimGadget.js:344
-#: src/features/claim/ClaimGadget.js:353
-#: src/features/claim/ClaimGoods.js:174
-#: src/features/claim/ClaimPA.js:779
-#: src/features/claim/ClaimPA.js:787
-#: src/features/claim/ClaimPA.js:814
-#: src/features/claim/ClaimPA.js:822
+#: src/features/claim/BankAccount.js:93 src/features/claim/ClaimFLEXAS.js:136
+#: src/features/claim/ClaimFLEXAS.js:145 src/features/claim/ClaimFLEXAS.js:163
+#: src/features/claim/ClaimFLEXAS.js:171 src/features/claim/ClaimGadget.js:217
+#: src/features/claim/ClaimGadget.js:316 src/features/claim/ClaimGadget.js:344
+#: src/features/claim/ClaimGadget.js:353 src/features/claim/ClaimGoods.js:174
+#: src/features/claim/ClaimPA.js:779 src/features/claim/ClaimPA.js:787
+#: src/features/claim/ClaimPA.js:814 src/features/claim/ClaimPA.js:822
 #: src/features/claim/ClaimSuccess/index.js:572
 #: src/features/claim/ServiceCenterClaim/index.js:73
 #: src/features/claim/ServiceCenterClaim/index.js:100
@@ -1667,8 +1634,7 @@ msgstr "Provinsi/kota yang Anda pilih akan membantu kami menentukan jasa perbaik
 msgid "The last step"
 msgstr "Langkah terakhir"
 
-#: src/features/claim/ClaimFLEXAS.js:320
-#: src/features/claim/ClaimPA.js:173
+#: src/features/claim/ClaimFLEXAS.js:320 src/features/claim/ClaimPA.js:173
 msgid "The photo/document should be clearly shown, with no blurry images or any glare."
 msgstr "Foto/dokumen harus ditunjukkan dengan jelas, tidak kabur/silau, dan tanpa guncangan."
 
@@ -1696,8 +1662,7 @@ msgstr "Berikut nilai maksimum yang dapat Anda klaim untuk perbaikan atau pengga
 msgid "To help us understand your claim request, we’ll just need a few questions answered"
 msgstr "Kami memerlukan Anda untuk menjawab beberapa pertanyaan untuk membantu kami memahami permohonan klaim Anda."
 
-#: src/app/HowToClaim/FlexasPA.js:200
-#: src/app/HowToClaim/Goods.js:156
+#: src/app/HowToClaim/FlexasPA.js:200 src/app/HowToClaim/Goods.js:156
 msgid "To help us understand your claim request, we’ll just need a few questions answered and documents from you."
 msgstr "Mohon mengisi beberapa pertanyaan dan melengkapi dokumen yang dibutuhkan untuk membantu kami memahami permohonan klaim Anda,"
 
@@ -1750,14 +1715,10 @@ msgstr "ID Transaksi harus diisi"
 msgid "Turn on the laptop, and enter <0>“wmic bios get serial number”</0> in the command window."
 msgstr "Nyalakan laptop, dan masukkan <0>\"wmic bios get serialnumber\"</0> di layar command."
 
-#: src/features/claim/ClaimFLEXAS.js:375
-#: src/features/claim/ClaimFLEXAS.js:388
-#: src/features/claim/ClaimFLEXAS.js:432
-#: src/features/claim/ClaimFLEXAS.js:445
-#: src/features/claim/ClaimFLEXAS.js:486
-#: src/features/claim/ClaimFLEXAS.js:534
-#: src/features/claim/ClaimGadget.js:568
-#: src/features/claim/ClaimGoods.js:386
+#: src/features/claim/ClaimFLEXAS.js:375 src/features/claim/ClaimFLEXAS.js:388
+#: src/features/claim/ClaimFLEXAS.js:432 src/features/claim/ClaimFLEXAS.js:445
+#: src/features/claim/ClaimFLEXAS.js:486 src/features/claim/ClaimFLEXAS.js:534
+#: src/features/claim/ClaimGadget.js:568 src/features/claim/ClaimGoods.js:386
 msgid "Type your comments here…"
 msgstr "Ketik komentar Anda di sini…"
 
@@ -1844,8 +1805,7 @@ msgstr "Kelurahan/Desa harus diisi"
 msgid "Washing Machine"
 msgstr "Mesin Cuci"
 
-#: src/features/claim/ClaimGadget.js:517
-#: src/features/policiesList/index.js:29
+#: src/features/claim/ClaimGadget.js:517 src/features/policiesList/index.js:29
 msgid "Water Damage"
 msgstr "Kerusakan akibat Air"
 
@@ -1853,10 +1813,8 @@ msgstr "Kerusakan akibat Air"
 msgid "We have received your claim request successfully!"
 msgstr "Kami telah menerima pengajuan klaim Anda!"
 
-#: src/features/claim/ClaimFLEXAS.js:314
-#: src/features/claim/ClaimGoods.js:326
-#: src/features/claim/ClaimGoods.js:354
-#: src/features/claim/ClaimPA.js:167
+#: src/features/claim/ClaimFLEXAS.js:314 src/features/claim/ClaimGoods.js:326
+#: src/features/claim/ClaimGoods.js:354 src/features/claim/ClaimPA.js:167
 msgid "We require all the documents below. Please kindly prepare in advance."
 msgstr "Berikut dokumen-dokumen yang kami butuhkan untuk proses analisa klaim, mohon dipersiapkan sebelumnya."
 
@@ -1878,8 +1836,7 @@ msgstr "Ada beberapa informasi yang kami butuhkan dari Anda. Proses ini akan mem
 msgid "What is the reason for this claim?"
 msgstr "Apa alasan untuk pengajuan klaim ini?"
 
-#: src/features/claim/ClaimFLEXAS.js:232
-#: src/features/claim/ClaimPA.js:124
+#: src/features/claim/ClaimFLEXAS.js:232 src/features/claim/ClaimPA.js:124
 msgid "What is the reason of this claim?"
 msgstr "Apa alasan untuk pengajuan klaim ini?"
 
@@ -1895,10 +1852,8 @@ msgstr "Di mana lokasi kerusakan perangkat elektronik Anda terjadi?"
 msgid "Within 3 Days"
 msgstr "Hari ini atau 2 hari sebelumnya"
 
-#: src/features/claim/ClaimFLEXAS.js:407
-#: src/features/claim/ClaimFLEXAS.js:507
-#: src/features/claim/ClaimGadget.js:658
-#: src/features/claim/ClaimPA.js:283
+#: src/features/claim/ClaimFLEXAS.js:407 src/features/claim/ClaimFLEXAS.js:507
+#: src/features/claim/ClaimGadget.js:658 src/features/claim/ClaimPA.js:283
 #: src/features/registration/FormFLEXAS.js:331
 #: src/features/registration/FormPA.js:460
 msgid "Yes"
@@ -1940,8 +1895,7 @@ msgstr "Langkah berikutnya"
 msgid "Your shipping details have been submitted!"
 msgstr "Rincian pengiriman Anda telah dikirimkan!"
 
-#: src/app/HowToClaim/FlexasPA.js:235
-#: src/app/HowToClaim/Goods.js:191
+#: src/app/HowToClaim/FlexasPA.js:235 src/app/HowToClaim/Goods.js:191
 msgid "You’re 1 step away now!"
 msgstr "1 tahap lagi!"
 
@@ -1965,10 +1919,8 @@ msgstr "pada label yang tertera pada bagian belakang laptop Anda."
 msgid "on a label affixed to the back of your tablet."
 msgstr "pada label yang tertera pada bagian belakang tablet Anda."
 
-#: src/features/claim/ClaimGadget.js:585
-#: src/features/claim/ClaimGadget.js:616
-#: src/features/claim/ClaimGadget.js:635
-#: src/features/claim/ClaimGadget.js:665
+#: src/features/claim/ClaimGadget.js:585 src/features/claim/ClaimGadget.js:616
+#: src/features/claim/ClaimGadget.js:635 src/features/claim/ClaimGadget.js:665
 msgid "{0} more to go!"
 msgstr "{0} langkah lagi!"
 
