@@ -17,7 +17,7 @@ msgstr ""
 #: src/features/claim/ClaimFLEXAS.js:270
 #, fuzzy
 msgid "(Minimun of 3 pictures)"
-msgstr "(Minimal 3 foto)123123123"
+msgstr "(Minimal 3 foto)"
 
 #: src/app/HowToClaim/Gadget.js:313
 msgid "* Excess refers to an initial amount that you need to pay before we will make any payment for a claim under your policy.If you have made a claim before, the excess for replacement will be increased."
