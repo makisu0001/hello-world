@@ -33,8 +33,9 @@ msgstr "* Rincian Tertanggung dan rincian lainnya"
 
 #: src/features/registration/FormGadget.js:361
 #: src/features/registration/FormGadget.js:377
+#, fuzzy
 msgid "- Please Select One -"
-msgstr "- Pilih Salah Satu -"
+msgstr "- Pilih Salah Satu -888"
 
 #: src/features/claim/ReimbursementDetails/ReimburseReturn.js:313
 msgid "- Please Select or Key In One -"
