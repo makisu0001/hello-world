@@ -1,5 +1,0 @@
-basepath = "."
-
-[[includes]]
-    path = "configs/general.toml"
-	locales = ["en-US", "id-ID"]
