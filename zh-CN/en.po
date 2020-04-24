@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-06-04 16:16+0800\n"
-"PO-Revision-Date: 2020-04-24 02:57+0000\n"
+"PO-Revision-Date: 2020-04-24 06:57+0000\n"
 "Last-Translator: Pontoon <makisu0001@gmail.com>\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -60,7 +60,7 @@ msgstr "3. PROTECTION FOR YOUR ORDERS"
 
 #: src/AppContainer/Registration/index.js:714
 msgid "Add Shop"
-msgstr "Add Shop"
+msgstr "添加"
 
 #: src/AppContainer/Components/PhotoUpload.js:84
 msgid "Add more..."
