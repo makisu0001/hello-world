@@ -1,17 +1,17 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-06-04 16:16+0800\n"
-"PO-Revision-Date: 2020-04-24 06:57+0000\n"
-"Last-Translator: Pontoon <makisu0001@gmail.com>\n"
-"Language-Team: \n"
-"Language: zh_CN\n"
+"Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"Mime-Version: 1.0\n"
-"X-Generator: Pontoon\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
 
 #: src/AppContainer/JoinNow/index.js:144
 msgid "1. BUYER PLACES AN ORDER"
@@ -59,11 +59,11 @@ msgstr "3. PROTECTION FOR YOUR ORDERS"
 
 #: src/AppContainer/Registration/index.js:714
 msgid "Add Shop"
-msgstr "添加"
+msgstr "Add Shop"
 
 #: src/AppContainer/Components/PhotoUpload.js:84
 msgid "Add more..."
-msgstr "添加更多..."
+msgstr "Add more..."
 
 #: src/AppContainer/Error.js:37
 msgid "An error has occurred. We’re currently doing our best to fix it. Please try again in a while."
@@ -89,15 +89,18 @@ msgstr "Claim in 48 hours"
 msgid "Contact <0>*</0>"
 msgstr "Contact <0>*</0>"
 
-#: src/AppContainer/JoinNow/index.js:352 src/AppContainer/JoinNow/index.js:367
+#: src/AppContainer/JoinNow/index.js:352
+#: src/AppContainer/JoinNow/index.js:367
 msgid "Contact Us"
 msgstr "Contact Us"
 
-#: src/AppContainer/JoinNow/index.js:407 src/AppContainer/Success.js:70
+#: src/AppContainer/JoinNow/index.js:407
+#: src/AppContainer/Success.js:70
 msgid "Contact with QQ"
 msgstr "Contact with QQ"
 
-#: src/AppContainer/JoinNow/index.js:420 src/AppContainer/Success.js:83
+#: src/AppContainer/JoinNow/index.js:420
+#: src/AppContainer/Success.js:83
 msgid "Contact with WeChat"
 msgstr "Contact with WeChat"
 
@@ -125,7 +128,8 @@ msgstr "Download Template"
 msgid "Email <0>*</0>"
 msgstr "Email <0>*</0>"
 
-#: src/AppContainer/Registration/index.js:449 src/AppContainer/Registration/index.js:919
+#: src/AppContainer/Registration/index.js:449
+#: src/AppContainer/Registration/index.js:919
 msgid "Email is required"
 msgstr "Email is required"
 
@@ -146,20 +150,12 @@ msgid "Follow the instructions below and upload your file."
 msgstr "Follow the instructions below and upload your file."
 
 #: src/AppContainer/JoinNow/index.js:177
-msgid ""
-"For Shopee Malaysia, Thailand, Singapore and Indonesia orders, merchant will receive a 50% compensation in 2 situations; Firstly as part of logistics protection if an order is lost or damaged, and "
-"secondly under transaction protection in situations like COD failed delivery, item different from description and missing/wrong item."
-msgstr ""
-"For Shopee Malaysia, Thailand, Singapore and Indonesia orders, merchant will receive a 50% compensation in 2 situations; Firstly as part of logistics protection if an order is lost or damaged, and "
-"secondly under transaction protection in situations like COD failed delivery, item different from description and missing/wrong item."
+msgid "For Shopee Malaysia, Thailand, Singapore and Indonesia orders, merchant will receive a 50% compensation in 2 situations; Firstly as part of logistics protection if an order is lost or damaged, and secondly under transaction protection in situations like COD failed delivery, item different from description and missing/wrong item."
+msgstr "For Shopee Malaysia, Thailand, Singapore and Indonesia orders, merchant will receive a 50% compensation in 2 situations; Firstly as part of logistics protection if an order is lost or damaged, and secondly under transaction protection in situations like COD failed delivery, item different from description and missing/wrong item."
 
 #: src/AppContainer/Introduction/index.js:190
-msgid ""
-"For merchants from Mainland China, Hong Kong, Korea, selling to Singapore, Malaysia, Indonesia, Thailand and Philippines. After paying a small fee, if the product is returned or failed delivery, the"
-" merchant will be refunded with certain percentage of product value."
-msgstr ""
-"For merchants from Mainland China, Hong Kong, Korea, selling to Singapore, Malaysia, Indonesia, Thailand and Philippines. After paying a small fee, if the product is returned or failed delivery, the"
-" merchant will be refunded with certain percentage of product value."
+msgid "For merchants from Mainland China, Hong Kong, Korea, selling to Singapore, Malaysia, Indonesia, Thailand and Philippines. After paying a small fee, if the product is returned or failed delivery, the merchant will be refunded with certain percentage of product value."
+msgstr "For merchants from Mainland China, Hong Kong, Korea, selling to Singapore, Malaysia, Indonesia, Thailand and Philippines. After paying a small fee, if the product is returned or failed delivery, the merchant will be refunded with certain percentage of product value."
 
 #: src/AppContainer/Registration/index.js:757
 msgid "Format require: <0>CSV</0> only"
@@ -177,11 +173,13 @@ msgstr "Full Protection Plan with 7days trail period protection"
 msgid "GP Account"
 msgstr "GP Account"
 
-#: src/AppContainer/Registration/index.js:430 src/AppContainer/Registration/index.js:914
+#: src/AppContainer/Registration/index.js:430
+#: src/AppContainer/Registration/index.js:914
 msgid "GP Account is required"
 msgstr "GP Account is required"
 
-#: src/AppContainer/JoinNow/index.js:375 src/AppContainer/Success.js:48
+#: src/AppContainer/JoinNow/index.js:375
+#: src/AppContainer/Success.js:48
 msgid "Got questions? Ask our online customer service by QQ/WeChat"
 msgstr "Got questions? Ask our online customer service by QQ/WeChat"
 
@@ -201,7 +199,8 @@ msgstr "I agree to the<0>Delivery Protection Program Contract</0>"
 msgid "Important Note:"
 msgstr "Important Note:"
 
-#: src/AppContainer/Introduction/index.js:205 src/AppContainer/Registration/index.js:206
+#: src/AppContainer/Introduction/index.js:205
+#: src/AppContainer/Registration/index.js:206
 msgid "Indonesia"
 msgstr "Indonesia"
 
@@ -209,11 +208,13 @@ msgstr "Indonesia"
 msgid "Indonesia (Full Protection)"
 msgstr "Indonesia (Full Protection)"
 
-#: src/AppContainer/Introduction/index.js:219 src/AppContainer/JoinNow/index.js:343
+#: src/AppContainer/Introduction/index.js:219
+#: src/AppContainer/JoinNow/index.js:343
 msgid "Join Now"
 msgstr "Join Now"
 
-#: src/AppContainer/Introduction/index.js:204 src/AppContainer/Registration/index.js:203
+#: src/AppContainer/Introduction/index.js:204
+#: src/AppContainer/Registration/index.js:203
 msgid "Malaysia"
 msgstr "Malaysia"
 
@@ -253,7 +254,8 @@ msgstr "Pay a weekly service fee based on order value"
 msgid "Payment Method"
 msgstr "Payment Method"
 
-#: src/AppContainer/Introduction/index.js:207 src/AppContainer/Registration/index.js:208
+#: src/AppContainer/Introduction/index.js:207
+#: src/AppContainer/Registration/index.js:208
 msgid "Philippines"
 msgstr "Philippines"
 
@@ -269,7 +271,10 @@ msgstr "Please Scan To Contact Customer Services"
 msgid "Please choose a csv file!"
 msgstr "Please choose a csv file!"
 
-#: src/AppContainer/Registration/index.js:456 src/AppContainer/Registration/index.js:478 src/AppContainer/Registration/index.js:509 src/AppContainer/Registration/index.js:929
+#: src/AppContainer/Registration/index.js:456
+#: src/AppContainer/Registration/index.js:478
+#: src/AppContainer/Registration/index.js:509
+#: src/AppContainer/Registration/index.js:929
 msgid "Please fill in QQ ID or WeChat bussiness ID, at least one required"
 msgstr "Please fill in QQ ID or WeChat bussiness ID, at least one required"
 
@@ -325,7 +330,8 @@ msgstr "SHOP DETAILS"
 msgid "Seller ID(ShopID) <0>*</0>"
 msgstr "Seller ID(ShopID) <0>*</0>"
 
-#: src/AppContainer/Registration/index.js:696 src/AppContainer/Registration/index.js:942
+#: src/AppContainer/Registration/index.js:696
+#: src/AppContainer/Registration/index.js:942
 msgid "Seller ID(ShopID) is required"
 msgstr "Seller ID(ShopID) is required"
 
@@ -333,7 +339,8 @@ msgstr "Seller ID(ShopID) is required"
 msgid "Seller can submit a claim in 120 days"
 msgstr "Seller can submit a claim in 120 days"
 
-#: src/AppContainer/Registration/index.js:843 src/AppContainer/Registration/index.js:884
+#: src/AppContainer/Registration/index.js:843
+#: src/AppContainer/Registration/index.js:884
 msgid "Service Fee:"
 msgstr "Service Fee:"
 
@@ -345,7 +352,8 @@ msgstr "Shop Name <0>*</0>"
 msgid "Shop id has to be unique!"
 msgstr "Shop id has to be unique!"
 
-#: src/AppContainer/Registration/index.js:677 src/AppContainer/Registration/index.js:937
+#: src/AppContainer/Registration/index.js:677
+#: src/AppContainer/Registration/index.js:937
 msgid "Shop name is required"
 msgstr "Shop name is required"
 
@@ -353,7 +361,8 @@ msgstr "Shop name is required"
 msgid "Shop {0}"
 msgstr "Shop {0}"
 
-#: src/AppContainer/Introduction/index.js:203 src/AppContainer/Registration/index.js:205
+#: src/AppContainer/Introduction/index.js:203
+#: src/AppContainer/Registration/index.js:205
 msgid "Singapore"
 msgstr "Singapore"
 
@@ -377,11 +386,16 @@ msgstr "Taiwan"
 msgid "Taiwan (Full Protection Plan with 7days)"
 msgstr "Taiwan (Full Protection Plan with 7days)"
 
+#: src/AppContainer/Registration/index.js:194
+#~ msgid "Taiwan (Full Protection with 7days)"
+#~ msgstr "Taiwan (Full Protection with 7days)"
+
 #: src/AppContainer/Footer/index.js:98
 msgid "Terms of Service"
 msgstr "Terms of Service"
 
-#: src/AppContainer/Introduction/index.js:206 src/AppContainer/Registration/index.js:204
+#: src/AppContainer/Introduction/index.js:206
+#: src/AppContainer/Registration/index.js:204
 msgid "Thailand"
 msgstr "Thailand"
 
@@ -449,7 +463,8 @@ msgstr "We’ll cover USD50 and above orders for you!"
 msgid "We’ll cover your order value + shipping fee!"
 msgstr "We’ll cover your order value + shipping fee!"
 
-#: src/AppContainer/JoinNow/index.js:254 src/AppContainer/JoinNow/index.js:270
+#: src/AppContainer/JoinNow/index.js:254
+#: src/AppContainer/JoinNow/index.js:270
 msgid "We’ll just need some documents to cover you"
 msgstr "We’ll just need some documents to cover you"
 
@@ -464,6 +479,3 @@ msgstr "igloo Delivery Protection Program"
 #: src/AppContainer/Footer/index.js:65
 msgid "© 2019 Powered by Axinan Pte Ltd. All Rights Reserved."
 msgstr "© 2019 Powered by Axinan Pte Ltd. All Rights Reserved."
-
-#~ msgid "Taiwan (Full Protection with 7days)"
-#~ msgstr "Taiwan (Full Protection with 7days)"
