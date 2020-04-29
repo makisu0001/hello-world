@@ -1,0 +1,481 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-06-04 16:16+0800\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/AppContainer/JoinNow/index.js:144
+msgid "1. BUYER PLACES AN ORDER"
+msgstr "1. BUYER PLACES AN ORDER"
+
+#: src/AppContainer/JoinNow/index.js:193
+msgid "1. LOGISTIC PROTECTION"
+msgstr "1. LOGISTIC PROTECTION"
+
+#: src/AppContainer/Footer/index.js:40
+msgid "10:00 AM - 18:00 PM<0/>Monday - Friday<1/>(except Public Holiday)"
+msgstr "10:00 AM - 18:00 PM<0/>Monday - Friday<1/>(except Public Holiday)"
+
+#: src/AppContainer/JoinNow/index.js:200
+msgid "1A. DAMAGE ORDER"
+msgstr "1A. DAMAGE ORDER"
+
+#: src/AppContainer/JoinNow/index.js:218
+msgid "1B. ORDER DELAYED/LOST"
+msgstr "1B. ORDER DELAYED/LOST"
+
+#: src/AppContainer/JoinNow/index.js:150
+msgid "2. ORDER ARRIVES AT WAREHOUSE"
+msgstr "2. ORDER ARRIVES AT WAREHOUSE"
+
+#: src/AppContainer/JoinNow/index.js:239
+msgid "2. TRANSACTION PROTECTION"
+msgstr "2. TRANSACTION PROTECTION"
+
+#: src/AppContainer/JoinNow/index.js:245
+msgid "2A. COD FAIL DELIVER"
+msgstr "2A. COD FAIL DELIVER"
+
+#: src/AppContainer/JoinNow/index.js:253
+msgid "2B. ITEM DIFFERENT FROM DESCRIPTION"
+msgstr "2B. ITEM DIFFERENT FROM DESCRIPTION"
+
+#: src/AppContainer/JoinNow/index.js:268
+msgid "2C. MISSING OR WRONG ITEM"
+msgstr "2C. MISSING OR WRONG ITEM"
+
+#: src/AppContainer/JoinNow/index.js:162
+msgid "3. PROTECTION FOR YOUR ORDERS"
+msgstr "3. PROTECTION FOR YOUR ORDERS"
+
+#: src/AppContainer/Registration/index.js:714
+msgid "Add Shop"
+msgstr "Add Shop"
+
+#: src/AppContainer/Components/PhotoUpload.js:84
+msgid "Add more..."
+msgstr "Add more..."
+
+#: src/AppContainer/Error.js:37
+msgid "An error has occurred. We’re currently doing our best to fix it. Please try again in a while."
+msgstr "An error has occurred. We’re currently doing our best to fix it. Please try again in a while."
+
+#: src/AppContainer/Registration/index.js:553
+msgid "BULK UPLOAD"
+msgstr "BULK UPLOAD"
+
+#: src/AppContainer/Registration/index.js:414
+msgid "Basic Information"
+msgstr "Basic Information"
+
+#: src/AppContainer/Registration/index.js:870
+msgid "By clicking “Register Now” I agree to <0>Shopee and igloo Terms of Conditions</0>."
+msgstr "By clicking “Register Now” I agree to <0>Shopee and igloo Terms of Conditions</0>."
+
+#: src/AppContainer/JoinNow/index.js:201
+msgid "Claim in 48 hours"
+msgstr "Claim in 48 hours"
+
+#: src/AppContainer/Registration/index.js:452
+msgid "Contact <0>*</0>"
+msgstr "Contact <0>*</0>"
+
+#: src/AppContainer/JoinNow/index.js:352
+#: src/AppContainer/JoinNow/index.js:367
+msgid "Contact Us"
+msgstr "Contact Us"
+
+#: src/AppContainer/JoinNow/index.js:407
+#: src/AppContainer/Success.js:70
+msgid "Contact with QQ"
+msgstr "Contact with QQ"
+
+#: src/AppContainer/JoinNow/index.js:420
+#: src/AppContainer/Success.js:83
+msgid "Contact with WeChat"
+msgstr "Contact with WeChat"
+
+#: src/AppContainer/Registration/index.js:322
+msgid "Country Rate"
+msgstr "Country Rate"
+
+#: src/AppContainer/JoinNow/index.js:240
+msgid "Covering 50% of your refund amount!"
+msgstr "Covering 50% of your refund amount!"
+
+#: src/AppContainer/Introduction/index.js:179
+msgid "Delivery Protection Program"
+msgstr "Delivery Protection Program"
+
+#: src/AppContainer/Registration/index.js:764
+msgid "Do not leave any blanks"
+msgstr "Do not leave any blanks"
+
+#: src/AppContainer/Registration/index.js:833
+msgid "Download Template"
+msgstr "Download Template"
+
+#: src/AppContainer/Registration/index.js:434
+msgid "Email <0>*</0>"
+msgstr "Email <0>*</0>"
+
+#: src/AppContainer/Registration/index.js:449
+#: src/AppContainer/Registration/index.js:919
+msgid "Email is required"
+msgstr "Email is required"
+
+#: src/AppContainer/Registration/index.js:408
+msgid "Experience our simple, secure payments technology, and accelerate your business today!"
+msgstr "Experience our simple, secure payments technology, and accelerate your business today!"
+
+#: src/AppContainer/Registration/FileUpload.js:35
+msgid "File provided has some error!"
+msgstr "File provided has some error!"
+
+#: src/AppContainer/JoinNow/index.js:280
+msgid "Financial Settlement"
+msgstr "Financial Settlement"
+
+#: src/AppContainer/Registration/index.js:730
+msgid "Follow the instructions below and upload your file."
+msgstr "Follow the instructions below and upload your file."
+
+#: src/AppContainer/JoinNow/index.js:177
+msgid "For Shopee Malaysia, Thailand, Singapore and Indonesia orders, merchant will receive a 50% compensation in 2 situations; Firstly as part of logistics protection if an order is lost or damaged, and secondly under transaction protection in situations like COD failed delivery, item different from description and missing/wrong item."
+msgstr "For Shopee Malaysia, Thailand, Singapore and Indonesia orders, merchant will receive a 50% compensation in 2 situations; Firstly as part of logistics protection if an order is lost or damaged, and secondly under transaction protection in situations like COD failed delivery, item different from description and missing/wrong item."
+
+#: src/AppContainer/Introduction/index.js:190
+msgid "For merchants from Mainland China, Hong Kong, Korea, selling to Singapore, Malaysia, Indonesia, Thailand and Philippines. After paying a small fee, if the product is returned or failed delivery, the merchant will be refunded with certain percentage of product value."
+msgstr "For merchants from Mainland China, Hong Kong, Korea, selling to Singapore, Malaysia, Indonesia, Thailand and Philippines. After paying a small fee, if the product is returned or failed delivery, the merchant will be refunded with certain percentage of product value."
+
+#: src/AppContainer/Registration/index.js:757
+msgid "Format require: <0>CSV</0> only"
+msgstr "Format require: <0>CSV</0> only"
+
+#: src/AppContainer/Registration/index.js:653
+msgid "Full Protection"
+msgstr "Full Protection"
+
+#: src/AppContainer/Registration/index.js:648
+msgid "Full Protection Plan with 7days trail period protection"
+msgstr "Full Protection Plan with 7days trail period protection"
+
+#: src/AppContainer/Registration/index.js:418
+msgid "GP Account"
+msgstr "GP Account"
+
+#: src/AppContainer/Registration/index.js:430
+#: src/AppContainer/Registration/index.js:914
+msgid "GP Account is required"
+msgstr "GP Account is required"
+
+#: src/AppContainer/JoinNow/index.js:375
+#: src/AppContainer/Success.js:48
+msgid "Got questions? Ask our online customer service by QQ/WeChat"
+msgstr "Got questions? Ask our online customer service by QQ/WeChat"
+
+#: src/AppContainer/Footer/index.js:29
+msgid "Havelock II, #07-13,<0/>2 Havelock Road,<1/>Singapore 059763"
+msgstr "Havelock II, #07-13,<0/>2 Havelock Road,<1/>Singapore 059763"
+
+#: src/AppContainer/JoinNow/index.js:139
+msgid "How it works"
+msgstr "How it works"
+
+#: src/AppContainer/JoinNow/index.js:316
+msgid "I agree to the<0>Delivery Protection Program Contract</0>"
+msgstr "I agree to the<0>Delivery Protection Program Contract</0>"
+
+#: src/AppContainer/Registration/index.js:752
+msgid "Important Note:"
+msgstr "Important Note:"
+
+#: src/AppContainer/Introduction/index.js:205
+#: src/AppContainer/Registration/index.js:206
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: src/AppContainer/Registration/index.js:185
+msgid "Indonesia (Full Protection)"
+msgstr "Indonesia (Full Protection)"
+
+#: src/AppContainer/Introduction/index.js:219
+#: src/AppContainer/JoinNow/index.js:343
+msgid "Join Now"
+msgstr "Join Now"
+
+#: src/AppContainer/Introduction/index.js:204
+#: src/AppContainer/Registration/index.js:203
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: src/AppContainer/Registration/index.js:173
+msgid "Malaysia (Full Protection)"
+msgstr "Malaysia (Full Protection)"
+
+#: src/AppContainer/Registration/FileUpload.js:47
+msgid "Name, country and id cannot be empty!"
+msgstr "Name, country and id cannot be empty!"
+
+#: src/AppContainer/401.js:35
+msgid "Not Authorized"
+msgstr "Not Authorized"
+
+#: src/AppContainer/404.js:35
+msgid "Not Found"
+msgstr "Not Found"
+
+#: src/AppContainer/Registration/index.js:949
+msgid "OK"
+msgstr "OK"
+
+#: src/AppContainer/JoinNow/index.js:220
+msgid "Once the delivery is delayed, we will pay half; once it is not delivered within 40 days, you can apply for a full refund"
+msgstr "Once the delivery is delayed, we will pay half; once it is not delivered within 40 days, you can apply for a full refund"
+
+#: src/AppContainer/JoinNow/index.js:151
+msgid "Order scanned in, protection starts"
+msgstr "Order scanned in, protection starts"
+
+#: src/AppContainer/JoinNow/index.js:164
+msgid "Pay a weekly service fee based on order value"
+msgstr "Pay a weekly service fee based on order value"
+
+#: src/AppContainer/Registration/index.js:520
+msgid "Payment Method"
+msgstr "Payment Method"
+
+#: src/AppContainer/Introduction/index.js:207
+#: src/AppContainer/Registration/index.js:208
+msgid "Philippines"
+msgstr "Philippines"
+
+#: src/AppContainer/Registration/index.js:189
+msgid "Philippines (Full Protection)"
+msgstr "Philippines (Full Protection)"
+
+#: src/AppContainer/JoinNow/index.js:393
+msgid "Please Scan To Contact Customer Services"
+msgstr "Please Scan To Contact Customer Services"
+
+#: src/AppContainer/Registration/index.js:269
+msgid "Please choose a csv file!"
+msgstr "Please choose a csv file!"
+
+#: src/AppContainer/Registration/index.js:456
+#: src/AppContainer/Registration/index.js:478
+#: src/AppContainer/Registration/index.js:509
+#: src/AppContainer/Registration/index.js:929
+msgid "Please fill in QQ ID or WeChat bussiness ID, at least one required"
+msgstr "Please fill in QQ ID or WeChat bussiness ID, at least one required"
+
+#: src/AppContainer/Registration/index.js:356
+msgid "Please follow these simple steps and the details will show <0>here</0>."
+msgstr "Please follow these simple steps and the details will show <0>here</0>."
+
+#: src/AppContainer/Registration/index.js:924
+msgid "Please input the correct email"
+msgstr "Please input the correct email"
+
+#: src/AppContainer/Footer/index.js:85
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: src/AppContainer/Registration/index.js:626
+msgid "Protection Plan<0>*</0>"
+msgstr "Protection Plan<0>*</0>"
+
+#: src/AppContainer/Registration/index.js:536
+msgid "Provide Your Details Below"
+msgstr "Provide Your Details Below"
+
+#: src/AppContainer/Registration/index.js:465
+msgid "QQ ID"
+msgstr "QQ ID"
+
+#: src/AppContainer/Registration/index.js:584
+msgid "Region <0>*</0>"
+msgstr "Region <0>*</0>"
+
+#: src/AppContainer/Registration/index.js:860
+msgid "Register Now"
+msgstr "Register Now"
+
+#: src/AppContainer/Registration/index.js:405
+msgid "Register now"
+msgstr "Register now"
+
+#: src/AppContainer/Registration/index.js:599
+msgid "Remove"
+msgstr "Remove"
+
+#: src/AppContainer/Components/PhotoUpload.js:107
+msgid "Reupload Photo"
+msgstr "Reupload Photo"
+
+#: src/AppContainer/Registration/index.js:547
+msgid "SHOP DETAILS"
+msgstr "SHOP DETAILS"
+
+#: src/AppContainer/Registration/index.js:680
+msgid "Seller ID(ShopID) <0>*</0>"
+msgstr "Seller ID(ShopID) <0>*</0>"
+
+#: src/AppContainer/Registration/index.js:696
+#: src/AppContainer/Registration/index.js:942
+msgid "Seller ID(ShopID) is required"
+msgstr "Seller ID(ShopID) is required"
+
+#: src/AppContainer/JoinNow/index.js:145
+msgid "Seller can submit a claim in 120 days"
+msgstr "Seller can submit a claim in 120 days"
+
+#: src/AppContainer/Registration/index.js:843
+#: src/AppContainer/Registration/index.js:884
+msgid "Service Fee:"
+msgstr "Service Fee:"
+
+#: src/AppContainer/Registration/index.js:662
+msgid "Shop Name <0>*</0>"
+msgstr "Shop Name <0>*</0>"
+
+#: src/AppContainer/Registration/FileUpload.js:42
+msgid "Shop id has to be unique!"
+msgstr "Shop id has to be unique!"
+
+#: src/AppContainer/Registration/index.js:677
+#: src/AppContainer/Registration/index.js:937
+msgid "Shop name is required"
+msgstr "Shop name is required"
+
+#: src/AppContainer/Registration/index.js:667
+msgid "Shop {0}"
+msgstr "Shop {0}"
+
+#: src/AppContainer/Introduction/index.js:203
+#: src/AppContainer/Registration/index.js:205
+msgid "Singapore"
+msgstr "Singapore"
+
+#: src/AppContainer/Registration/index.js:181
+msgid "Singapore (Full Protection)"
+msgstr "Singapore (Full Protection)"
+
+#: src/AppContainer/Error.js:34
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+#: src/AppContainer/Registration/index.js:793
+msgid "Success! {0} shops will be uploaded."
+msgstr "Success! {0} shops will be uploaded."
+
+#: src/AppContainer/Registration/index.js:207
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: src/AppContainer/Registration/index.js:197
+msgid "Taiwan (Full Protection Plan with 7days)"
+msgstr "Taiwan (Full Protection Plan with 7days)"
+
+#: src/AppContainer/Registration/index.js:194
+#~ msgid "Taiwan (Full Protection with 7days)"
+#~ msgstr "Taiwan (Full Protection with 7days)"
+
+#: src/AppContainer/Footer/index.js:98
+msgid "Terms of Service"
+msgstr "Terms of Service"
+
+#: src/AppContainer/Introduction/index.js:206
+#: src/AppContainer/Registration/index.js:204
+msgid "Thailand"
+msgstr "Thailand"
+
+#: src/AppContainer/Registration/index.js:177
+msgid "Thailand (Full Protection)"
+msgstr "Thailand (Full Protection)"
+
+#: src/AppContainer/Success.js:32
+msgid "Thank you for joining igloo"
+msgstr "Thank you for joining igloo"
+
+#: src/AppContainer/Success.js:28
+msgid "Thank you!"
+msgstr "Thank you!"
+
+#: src/AppContainer/404.js:38
+msgid "The resource you are trying to access is not found."
+msgstr "The resource you are trying to access is not found."
+
+#: src/AppContainer/Components/PhotoUpload.js:107
+msgid "Upload Photo"
+msgstr "Upload Photo"
+
+#: src/AppContainer/Registration/FileUpload.js:19
+msgid "Upload Your File"
+msgstr "Upload Your File"
+
+#: src/AppContainer/401.js:38
+msgid "User is not authorized to access this url."
+msgstr "User is not authorized to access this url."
+
+#: src/AppContainer/Registration/index.js:209
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: src/AppContainer/Registration/index.js:193
+msgid "Vietnam (Full Protection)"
+msgstr "Vietnam (Full Protection)"
+
+#: src/AppContainer/JoinNow/index.js:186
+msgid "We protect you in 2 ways: Logistic and Transaction protection."
+msgstr "We protect you in 2 ways: Logistic and Transaction protection."
+
+#: src/AppContainer/JoinNow/index.js:283
+msgid "We support a variety of payment methods, including:"
+msgstr "We support a variety of payment methods, including:"
+
+#: src/AppContainer/JoinNow/index.js:174
+msgid "We will protect your product"
+msgstr "We will protect your product"
+
+#: src/AppContainer/Success.js:35
+msgid "We will use your e-mail to active your account in 5 days."
+msgstr "We will use your e-mail to active your account in 5 days."
+
+#: src/AppContainer/Registration/index.js:495
+msgid "WeChat Business ID"
+msgstr "WeChat Business ID"
+
+#: src/AppContainer/JoinNow/index.js:194
+msgid "We’ll cover USD50 and above orders for you!"
+msgstr "We’ll cover USD50 and above orders for you!"
+
+#: src/AppContainer/JoinNow/index.js:247
+msgid "We’ll cover your order value + shipping fee!"
+msgstr "We’ll cover your order value + shipping fee!"
+
+#: src/AppContainer/JoinNow/index.js:254
+#: src/AppContainer/JoinNow/index.js:270
+msgid "We’ll just need some documents to cover you"
+msgstr "We’ll just need some documents to cover you"
+
+#: src/AppContainer/Registration/FileUpload.js:52
+msgid "You should at least add one store!"
+msgstr "You should at least add one store!"
+
+#: src/AppContainer/JoinNow/index.js:136
+msgid "igloo Delivery Protection Program"
+msgstr "igloo Delivery Protection Program"
+
+#: src/AppContainer/Footer/index.js:65
+msgid "© 2019 Powered by Axinan Pte Ltd. All Rights Reserved."
+msgstr "© 2019 Powered by Axinan Pte Ltd. All Rights Reserved."
