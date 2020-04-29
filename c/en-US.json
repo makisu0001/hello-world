@@ -1,0 +1,6 @@
+{
+    "operation.manageAccount": "Manage Account",
+    "operation.proxyAccount": "Proxy Account",
+    "operation.resetPassword": "Reset Password",
+    "operation.logout": "Logout"
+}
