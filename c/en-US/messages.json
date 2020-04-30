@@ -1,6 +1,13 @@
 {
-    "operation.manageAccount": "Manage Account",
-    "operation.proxyAccount": "Proxy Account",
-    "operation.resetPassword": "Reset Password",
-    "operation.logout": "Logout"
+	"operation.manageAccount": {
+		"message": "Manage Account"
+	},
+	"operation.proxyAccount": {
+	},
+	"operation.resetPassword": {
+		"message": "Reset Password"
+	},
+	"operation.logout": {
+		"message": "Logout"
+	}
 }

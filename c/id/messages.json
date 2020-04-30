@@ -1,6 +1,14 @@
 {
-    "operation.manageAccount": "Kelola Akun",
-    "operation.proxyAccount": "Proxy Account",
-    "operation.resetPassword": "Ubah Kata Sandi",
-    "operation.logout": "Logout"
+    "operation.manageAccount": {
+    	"message": "Kelola Akun"
+    },
+    "operation.proxyAccount": {
+    	"message": "Proxy Account"
+    },
+    "operation.resetPassword": {
+    	"message": "Ubah Kata Sandi"
+    },
+    "operation.logout": {
+    	"message": "Logout"
+    }
 }
