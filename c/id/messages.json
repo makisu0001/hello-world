@@ -1,5 +1,5 @@
 {
-    "operation.head": {
+    "head": {
         "operation.manageAccount": {
             "message": "Kelola Akun",
             "placeholder": {
