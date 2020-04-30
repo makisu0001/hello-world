@@ -1,14 +1,26 @@
 {
     "operation.manageAccount": {
-    	"message": "Kelola Akun"
+    	"message": "Kelola Akun",
+        "placeholder": {
+            "content": "Kelola Akun"
+        }
     },
     "operation.proxyAccount": {
-    	"message": "Proxy Account"
+    	"message": "Proxy Account",
+        "placeholder": {
+            "content": "Proxy Account"
+        }
     },
     "operation.resetPassword": {
-    	"message": "Ubah Kata Sandi"
+    	"message": "Ubah Kata Sandi",
+        "placeholder": {
+            "content": "Ubah Kata Sandi"
+        }
     },
     "operation.logout": {
-    	"message": "Logout"
+    	"message": "Logout",
+        "placeholder": {
+            "content": "Logout"
+        }
     }
 }

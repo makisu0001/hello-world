@@ -1,13 +1,26 @@
 {
 	"operation.manageAccount": {
-		"message": "Manage Account"
+		"message": "Manage Account",
+		"placeholder": {
+			"content": "Manage Account"
+		}
 	},
 	"operation.proxyAccount": {
+		"message": "Proxy Account",
+		"placeholder": {
+			"content": "Proxy Account"
+		}
 	},
 	"operation.resetPassword": {
-		"message": "Reset Password"
+		"message": "Reset Password",
+		"placeholder": {
+			"content": "Reset Password"
+		}
 	},
 	"operation.logout": {
-		"message": "Logout"
+		"message": "Logout",
+		"placeholder": {
+			"content": "Logout"
+		}
 	}
 }
