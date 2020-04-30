@@ -1,28 +1,26 @@
 {
-    "head": {
-        "operation.manageAccount": {
-            "message": "Kelola Akun",
-            "placeholder": {
-                "content": "Kelola Akun"
-            }
-        },
-        "operation.proxyAccount": {
-            "message": "Proxy Account",
-            "placeholder": {
-                "content": "Proxy Account"
-            }
-        },
-        "operation.resetPassword": {
-            "message": "Ubah Kata Sandi",
-            "placeholder": {
-                "content": "Ubah Kata Sandi"
-            }
-        },
-        "operation.logout": {
-            "message": "Logout",
-            "placeholder": {
-                "content": "Logout"
-            }
+    "operation.manageAccount": {
+        "message": "Kelola Akun",
+        "placeholder": {
+            "content": "Kelola Akun123"
+        }
+    },
+    "operation.proxyAccount": {
+        "message": "Proxy Account",
+        "placeholder": {
+            "content": "Proxy Account"
+        }
+    },
+    "operation.resetPassword": {
+        "message": "Ubah Kata Sandi",
+        "placeholder": {
+            "content": "Ubah Kata Sandi"
+        }
+    },
+    "operation.logout": {
+        "message": "Logout",
+        "placeholder": {
+            "content": "Logout"
         }
     }
 }

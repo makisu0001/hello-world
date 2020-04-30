@@ -1,28 +1,26 @@
 {
-	"head": {
-		"operation.manageAccount": {
-			"message": "Manage Account",
-			"placeholder": {
-				"content": "Manage Account"
-			}
-		},
-		"operation.proxyAccount": {
-			"message": "Proxy Account",
-			"placeholder": {
-				"content": "Proxy Account"
-			}
-		},
-		"operation.resetPassword": {
-			"message": "Reset Password",
-			"placeholder": {
-				"content": "Reset Password"
-			}
-		},
-		"operation.logout": {
-			"message": "Logout",
-			"placeholder": {
-				"content": "Logout"
-			}
+	"operation.manageAccount": {
+		"message": "Manage Account",
+		"placeholder": {
+			"content": "Manage Account"
+		}
+	},
+	"operation.proxyAccount": {
+		"message": "Proxy Account",
+		"placeholder": {
+			"content": "Proxy Account"
+		}
+	},
+	"operation.resetPassword": {
+		"message": "Reset Password",
+		"placeholder": {
+			"content": "Reset Password"
+		}
+	},
+	"operation.logout": {
+		"message": "Logout",
+		"placeholder": {
+			"content": "Logout"
 		}
 	}
 }
